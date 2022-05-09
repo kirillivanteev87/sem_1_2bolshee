@@ -1,0 +1,15 @@
+/home/kirill/Документы/VSCode/sem1/bin/Debug/net6.0/sem1
+/home/kirill/Документы/VSCode/sem1/bin/Debug/net6.0/sem1.deps.json
+/home/kirill/Документы/VSCode/sem1/bin/Debug/net6.0/sem1.runtimeconfig.json
+/home/kirill/Документы/VSCode/sem1/bin/Debug/net6.0/sem1.dll
+/home/kirill/Документы/VSCode/sem1/bin/Debug/net6.0/sem1.pdb
+/home/kirill/Документы/VSCode/sem1/obj/Debug/net6.0/sem1.csproj.AssemblyReference.cache
+/home/kirill/Документы/VSCode/sem1/obj/Debug/net6.0/sem1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/Документы/VSCode/sem1/obj/Debug/net6.0/sem1.AssemblyInfoInputs.cache
+/home/kirill/Документы/VSCode/sem1/obj/Debug/net6.0/sem1.AssemblyInfo.cs
+/home/kirill/Документы/VSCode/sem1/obj/Debug/net6.0/sem1.csproj.CoreCompileInputs.cache
+/home/kirill/Документы/VSCode/sem1/obj/Debug/net6.0/sem1.dll
+/home/kirill/Документы/VSCode/sem1/obj/Debug/net6.0/refint/sem1.dll
+/home/kirill/Документы/VSCode/sem1/obj/Debug/net6.0/sem1.pdb
+/home/kirill/Документы/VSCode/sem1/obj/Debug/net6.0/sem1.genruntimeconfig.cache
+/home/kirill/Документы/VSCode/sem1/obj/Debug/net6.0/ref/sem1.dll
